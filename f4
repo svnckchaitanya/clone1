@@ -13,3 +13,8 @@ git push origin branch-name  (push to central repo)
 git push pathofc-repo branch-name
 git branch -d branch-name (local delete)
 git push origin -d branch-name  (delete in central repo)
+Gut hub credentials :
+User name - chaitanyasvnck@gmail.com
+Pwd - chaithu@1985
+Username - svnckchaitanya85@gmail.com
+pwd - svnck@1985
