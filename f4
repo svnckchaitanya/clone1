@@ -2,3 +2,14 @@ Related to Infopath project line..Please dont mind
 Hi friends have you today's video is not playing
 Please check and let me know once.
 Good afternoon friends. I am typing something unrelated
+git branch
+git branch branch-name
+git branch
+git checkout branch-name
+git merge branch-name
+git cherry-pick cid  (single commit)
+git checkout -b branch-name  (create and checkout)
+git push origin branch-name  (push to central repo)
+git push pathofc-repo branch-name
+git branch -d branch-name (local delete)
+git push origin -d branch-name  (delete in central repo)
