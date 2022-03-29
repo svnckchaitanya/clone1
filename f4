@@ -1,30 +1,4 @@
-touch file1
-ls
-git status
-git add file1
-git status
-git commit -m "lable" file1
-git status
-git log
-git show cid
-
-Related to Infopath project line..Please dont mind
-Hi friends have you today's video is not playing
-Please check and let me know once.
-Good afternoon friends. I am typing something unrelated
-git branch
-git branch branch-name
-git branch
-git checkout branch-name
-git merge branch-name
-git cherry-pick cid  (single commit)
-git checkout -b branch-name  (create and checkout)
-git push origin branch-name  (push to central repo)
-git push pathofc-repo branch-name
-git branch -d branch-name (local delete)
-git push origin -d branch-name  (delete in central repo)
-Gut hub credentials :
-User name - chaitanyasvnck@gmail.com
-Pwd - chaithu@1985
-Username - svnckchaitanya85@gmail.com
-pwd - svnck@1985
+git reset head file-name  (staging to workspace)
+git reset --soft cid  (local to statging) n-1
+git reset --mixed cid  (local to workspace) n-1
+git reset --hard cid  (to delete commit and data) n-1
